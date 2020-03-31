@@ -1,0 +1,12 @@
+{
+  "name": "rustjs",
+  "version": "0.0.1",
+  "private": true,
+  "main": "server.js",
+  "engines": {
+    "node": "10.x.x"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
